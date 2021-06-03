@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings proclamation and determination concerning the Earle of Essex and all who go under his command with the resolution of both Houses of Parliament concerning the said Earle of Essex and the same proclamation : also joyfull newes from the Earle of Warvvicke, concerning his takeing of many ships with horse and other ammunition for vvar : also the summe or substance of speech spoken by the Earl of Essex at a conference in the painted chamber between the Lords and the House of Commons in defence of his own integrity and his readinesse to proceed in this present cause.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19075</idno><idno type="EEBO-CITATION">12206053</idno>
+  <idno type="VID">197482</idno>
+  <idno type="EEBO-PROQUEST">2240926462</idno>
+  
+            <idno type="STC">Wing C2549</idno>
+            <idno type="OCLC">12206053</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197482)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E112, no 10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings proclamation and determination concerning the Earle of Essex and all who go under his command with the resolution of both Houses of Parliament concerning the said Earle of Essex and the same proclamation : also joyfull newes from the Earle of Warvvicke, concerning his takeing of many ships with horse and other ammunition for vvar : also the summe or substance of speech spoken by the Earl of Essex at a conference in the painted chamber between the Lords and the House of Commons in defence of his own integrity and his readinesse to proceed in this present cause.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Thomson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 16, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="personal_name">Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197482:1"/>
+            <p>THE KINGS PROCLAMATION <hi>AND</hi> DETERMINATION Concerning <hi>THE EARLE OF ESSEX,</hi> and all who go under his command.</p>
+            <p>With the Resolution of both Houses of Parlia<g ref="char:EOLhyphen"/>ment concerning the said Earle of <hi>Essex,</hi> and the same Proclamation.</p>
+            <p>
+               <hi>ALSO</hi> JOYFVLL NEWES FROM THE EARLE OF WARVVICKE, Concerning his takeing of many ships with Horse and other Ammunition for VV<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rr.</p>
+            <p>ALSO, The summe or substance of a speech spoken by the <hi>Earl of Essex,</hi> at a Conference in the painted Chamber, be<g ref="char:EOLhyphen"/>tween the Lords and the House of Commons, in de<g ref="char:EOLhyphen"/>fence of his own integrity, and his readinesse to proceed in this present cause.</p>
+            <p>Joh. Brown Cler. Parl. Hen. Elsing Cler. Parl. D. Com.</p>
+            <p>Printed for <hi>T. Thomson.</hi> 1642. <hi>August</hi> 16.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197482:2"/>
+            <pb n="1" facs="tcp:197482:2"/>
+            <head>THE KINGS PROCLAMATION <hi>AND</hi> DETERMINATION Concerning <hi>THE EARLE OF ESSEX,</hi> and all who go under his Command.</head>
+            <head type="sub">With the Resolution of both Houses of Par<g ref="char:EOLhyphen"/>liament concerning the said Earle of <hi>Essex,</hi> and the same Proclamation.</head>
+            <head type="sub">Also the summe or substance of a speech spoken by the <hi>Earle of Essex,</hi> at a Conference in the pain<g ref="char:EOLhyphen"/>ted Chamber, between the Lords and the House of Commons, in defence of his owne inte<g ref="char:EOLhyphen"/>grity, and his readinesse to proceed in this present cause.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He industrious vigilancie of the Parliament, for the preservation and establishment of Religion, for the liberty of the Subiect, and the priviledges of Parlia<g ref="char:EOLhyphen"/>ment, we all know, have been most violently opposed, and in such extreme
+<pb n="2" facs="tcp:197482:3"/>measure resisted, so that His Maiestie hath intended and levied warre against them.</p>
+            <p>Whereupon in their owne, and the defence of the common-wealth, they were constrain<g ref="char:EOLhyphen"/>ed to provide and raise present strength and de<g ref="char:EOLhyphen"/>fensive power for the vindication of themselves, the Liberty of the subiect, and the priviledges of Parliament. And upon these considerati<g ref="char:EOLhyphen"/>ons did make choice of the Earle of <hi>Essex</hi> to be Generall, if these present forces which are raised and levied for the generall preservation of the kingdome, who hath resolved with his ut<g ref="char:EOLhyphen"/>termost power and endeavours to discharge with all integrity of conscience that trust im<g ref="char:EOLhyphen"/>posed upon him, and did provide himselfe with as much expedition as could be, with all convenient necessaries fit for so great an imploy<g ref="char:EOLhyphen"/>ment.</p>
+            <p>His Maiesty being informed of this great provision which was made against all opposers of the priviledges of Parliament, sent forth a Proclamation, wherein hee proclaimed the Earle of <hi>Essex,</hi> and all that should any way adhere unto him, or give any aid or assistance unto him in this imployment, whether that as<g ref="char:EOLhyphen"/>sistance were personall or pecuniary, to be <hi>ipso facto</hi> traytors, unlesse (his Excellence) the Earle of <hi>Essex</hi> should lay down his armes within six dayes.</p>
+            <p>Vpon the thirteenth of August a Post came
+<pb n="3" facs="tcp:197482:3"/>from <hi>Yorke</hi> unto the House, with a Proclama<g ref="char:EOLhyphen"/>tion from His Maiesty, wherein the Earle of <hi>Essex,</hi> and all that serve under his command for this present service and expedirion, or any way whatsoever adhere unto him, were also pro<g ref="char:EOLhyphen"/>claimed traytors, if they did not lay downe their armes within the space of six dayes next ensuing.</p>
+            <p>This being read and published in the House of Commons, after some debate and consul<g ref="char:EOLhyphen"/>tation had thereof, it was put to the Question, Whether they would assist the said Earle of <hi>Essex,</hi> as Generall of those forces which were now raised, or were to be raised for this pre<g ref="char:EOLhyphen"/>sent service and expedirion, or not: and it was voted with an unanimous consent, that they would assist him.</p>
+            <p>Vpon which a conference was desired of both Houses, and their meeting was concluded and had in the painted chamber. At which meet<g ref="char:EOLhyphen"/>ing and conference the Proclamation was read, dated at <hi>York</hi> the ninth of August 1642. and after the reading thereof it was declared in the behalf of the whole House of Commons, and all the Commons throughout every Coun<g ref="char:EOLhyphen"/>ty within the circumference of <hi>England,</hi> that they had taken into most serious consideration and mature deliberation, the grounds &amp; reasons that did move and induce them to take up armes, which was for the defence of religion,
+<pb n="4" facs="tcp:197482:4"/>the Lawes of the land, the safety of the whole Kingdome, and the priviledges of Parliament. Upon which due consideration of the afore<g ref="char:EOLhyphen"/>named reasons, they were resolved that all the words of terrour and threatning in that His Maiesties Proclamation, should not make them desist from the maintaining of so just a cause, but that thereby they should double their reso<g ref="char:EOLhyphen"/>lution concerning the same; unto which the Lords voted, and gave their approbation and consent, it being voted <hi>una voce</hi> in their house before. Then the Earle of <hi>Essex</hi> stood up, and delivered himselfe in the defence of his integri<g ref="char:EOLhyphen"/>ty, and his resolution concerning his present imployment, and declared, that although it had pleased His Maiesty to proclaime him trai<g ref="char:EOLhyphen"/>ror, yet his heart was as true and upright both to his King and Countrey, as any subiects in <hi>England</hi> whatsoever. And as the Lords and Commons had promised and declared, that they would assist him, and to their power justi<g ref="char:EOLhyphen"/>fie his proceedings and undertakings, as Gene<g ref="char:EOLhyphen"/>rall for the Army raised for this present expedi<g ref="char:EOLhyphen"/>tion, so he would use his best and most faithfull endeavours and skill in the managing and put<g ref="char:EOLhyphen"/>ting into execution the trust they reposed in him, and that neither threatnings, favour, nor any thing else should divert or discourage him from his intentions in the behalf of this cause, although it were to the hazard and losse of his
+<pb n="5" facs="tcp:197482:4"/>dearest blood. The house also received infor<g ref="char:EOLhyphen"/>mation that one M. <hi>Talbot</hi> brother to the Earle of <hi>Shrewesburie,</hi> and some others imployed in the Commission of Array for the County of <hi>Worcester,</hi> had sent out warrants to the chiefe Constables, commanding the trained bands, and all those that were charged with horse and armes, to appeare before them at <hi>Worcester</hi> on thursday, but the whole County did generally and with one consent refuse to come, only some few gentlemen and some of their tenants appea<g ref="char:EOLhyphen"/>red: whereupon this <hi>Talbot</hi> and the rest who were of the same Commission with him, went away very much discontented.</p>
+            <p>
+               <hi>Thursday</hi> Morning the House of Commons being met, an Ambassadour came to the House from Hamborough concerning a treaty of di<g ref="char:EOLhyphen"/>vers matters of consequence, between the States of <hi>Holland</hi> and the Parliament, and he presented some Lettes to the House from the States, de<g ref="char:EOLhyphen"/>claring their true affection to the Parliament; and although there is great plotting in other Countries against <hi>England,</hi> yet will not be want<g ref="char:EOLhyphen"/>ing to use all possible meanes for the prevention thereof. Now that the world may see that God doth alway crown their designes with successe, whose cause is iust, and whose principall aime is for his true Religion and Gospell, and disap<g ref="char:EOLhyphen"/>point the subtill devices of those ill affected spi<g ref="char:EOLhyphen"/>rits that oppose them, is obvious to every eye,
+<pb n="6" facs="tcp:197482:5"/>witnesse the frustrating of their attempts against <hi>Hull, Wels, Warwick,</hi> &amp;c. so more especially in their manifold enterprises at sea, as you may see in a letter from the Earle of <hi>Warwick</hi> upon the twelfth of this present moneth, intimating that he met with two ships coming from <hi>Holland,</hi> the one of them was laden with armour and Ammunition, which being but a small ship, and swift of saile, could not take it, but the other he drove into <hi>Hull,</hi> which had in it three hundred thousand pound, which was sent from the Queen to His Maiesty, with an intent to land at <hi>Newcastle.</hi>
+            </p>
+            <p>Great is the mallice of the enemy, but grea<g ref="char:EOLhyphen"/>ter is the providence of God, as hath appeared at this present by the Earle of <hi>Warwicke,</hi> who hath taken diverse ships where in a was troop of Horse and other Ammunition for Warr.</p>
+            <p>Also it is manifest that a Knight named <hi>Ro<g ref="char:EOLhyphen"/>per,</hi> was bound and brought to the <hi>House</hi> in a Coach from <hi>Kent</hi> and with him 5 or 6 loade of Ammunition which is now in Guild-Hall.</p>
+            <p>Ordered, that Sir <hi>Iohn Girlington,</hi> Sir <hi>George Middleton,</hi> and Sir <hi>Edward Fitton</hi> be sent for as delinquents.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Ioh. Brown Cleric. Parliament.</item>
+                     <item>Hen. Elsing Cler. Parl. D. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
